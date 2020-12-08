@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/daehlidotno/static/css/main.73efbf52.chunk.css",
-    "main.js": "/daehlidotno/static/js/main.e644c28a.chunk.js",
-    "main.js.map": "/daehlidotno/static/js/main.e644c28a.chunk.js.map",
-    "runtime-main.js": "/daehlidotno/static/js/runtime-main.752f4d39.js",
-    "runtime-main.js.map": "/daehlidotno/static/js/runtime-main.752f4d39.js.map",
-    "static/js/2.707a7ba5.chunk.js": "/daehlidotno/static/js/2.707a7ba5.chunk.js",
-    "static/js/2.707a7ba5.chunk.js.map": "/daehlidotno/static/js/2.707a7ba5.chunk.js.map",
-    "static/js/3.f5acc0a3.chunk.js": "/daehlidotno/static/js/3.f5acc0a3.chunk.js",
-    "static/js/3.f5acc0a3.chunk.js.map": "/daehlidotno/static/js/3.f5acc0a3.chunk.js.map",
+    "main.css": "/daehlidotno/static/css/main.6b79e9f6.chunk.css",
+    "main.js": "/daehlidotno/static/js/main.53941b23.chunk.js",
+    "main.js.map": "/daehlidotno/static/js/main.53941b23.chunk.js.map",
+    "runtime-main.js": "/daehlidotno/static/js/runtime-main.cafc5d02.js",
+    "runtime-main.js.map": "/daehlidotno/static/js/runtime-main.cafc5d02.js.map",
+    "static/css/2.632c9fdd.chunk.css": "/daehlidotno/static/css/2.632c9fdd.chunk.css",
+    "static/js/2.110f4db7.chunk.js": "/daehlidotno/static/js/2.110f4db7.chunk.js",
+    "static/js/2.110f4db7.chunk.js.map": "/daehlidotno/static/js/2.110f4db7.chunk.js.map",
+    "static/js/3.eb4063f8.chunk.js": "/daehlidotno/static/js/3.eb4063f8.chunk.js",
+    "static/js/3.eb4063f8.chunk.js.map": "/daehlidotno/static/js/3.eb4063f8.chunk.js.map",
     "index.html": "/daehlidotno/index.html",
-    "static/css/main.73efbf52.chunk.css.map": "/daehlidotno/static/css/main.73efbf52.chunk.css.map",
-    "static/js/2.707a7ba5.chunk.js.LICENSE.txt": "/daehlidotno/static/js/2.707a7ba5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/daehlidotno/static/media/logo.6ce24c58.svg"
+    "static/css/2.632c9fdd.chunk.css.map": "/daehlidotno/static/css/2.632c9fdd.chunk.css.map",
+    "static/css/main.6b79e9f6.chunk.css.map": "/daehlidotno/static/css/main.6b79e9f6.chunk.css.map",
+    "static/js/2.110f4db7.chunk.js.LICENSE.txt": "/daehlidotno/static/js/2.110f4db7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.752f4d39.js",
-    "static/js/2.707a7ba5.chunk.js",
-    "static/css/main.73efbf52.chunk.css",
-    "static/js/main.e644c28a.chunk.js"
+    "static/js/runtime-main.cafc5d02.js",
+    "static/css/2.632c9fdd.chunk.css",
+    "static/js/2.110f4db7.chunk.js",
+    "static/css/main.6b79e9f6.chunk.css",
+    "static/js/main.53941b23.chunk.js"
   ]
 }
